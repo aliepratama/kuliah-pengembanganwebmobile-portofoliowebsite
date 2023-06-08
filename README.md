@@ -26,8 +26,6 @@ karena software ini gratis. Berikut adalah hasil saya membuat blueprint
 website portofolio:
 
 ![](md_img/media/image1.png)
-![](md_img/media/image2.png)
-![](md_img/media/image2.png)
 
 *Hasil Blueprint dari aplikasi "Figma"*
 
