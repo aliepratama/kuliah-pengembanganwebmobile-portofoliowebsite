@@ -40,8 +40,7 @@ blur menggunakan css blur. Saya juga menaruh foto saya supaya terlihat
 lebih terpercaya. Beberapa elemen dapat di-*hover* dan memberikan efek
 tertentu, saya juga menggunakan efek ini di css.
 
-![](md_img/media/image5.png){width="5.746524496937883in"
-height="3.0625in"}
+![](md_img/media/image5.png)
 
 *Ukuran Desktop*
 
@@ -51,9 +50,8 @@ elemen akan hilang dan tersusun rapih secara otomatis. Untuk fitur
 navigation bar juga mengalami perubahan menjadi icon hamburger, saya
 membuat ini dengan javascript native di theme.js.
 
-![](md_img/media/image6.png){width="2.3541666666666665in"
-height="3.3125in"}![](md_img/media/image7.png){width="2.342361111111111in"
-height="3.2916666666666665in"}
+![](md_img/media/image6.png)
+![](md_img/media/image7.png)
 
 D.  **Section Skill**
 
@@ -63,8 +61,7 @@ namun tidak dapat diklik. Untuk fitur background-blur saya menggunakan
 css webkit. Tampilan ini juga tersusun atas 2 layer, yaitu layer
 background hiasan dan layer content.
 
-![](md_img/media/image8.png){width="5.770833333333333in"
-height="1.5796325459317586in"}
+![](md_img/media/image8.png)
 
 E.  **Section Experiences**
 
@@ -72,8 +69,7 @@ Di section ini saya menjelaskan tentang pengalaman kerja saya di
 industri kreatif. Elemen-elemen ini dapat di-*hover* dan memperbesar
 heading dalam. 2 elemen kanan dapat diklik dan membuka url di tab baru.
 
-![](md_img/media/image9.png){width="5.770833333333333in"
-height="2.036350612423447in"}
+![](md_img/media/image9.png)
 
 F.  **Section Projects**
 
@@ -82,8 +78,7 @@ designcrowd.com. Untuk lebih detail projeknya dapat dilihat di tombol
 "See All". Elemen ini memberikan efek unik, Ketika foto di-*hover­* maka
 foto akan menjadi berwarna dan heading menjadi diperbesar.
 
-![](md_img/media/image10.png){width="5.770833333333333in"
-height="2.623280839895013in"}
+![](md_img/media/image10.png)
 
 G.  **Section CTA**
 
@@ -92,8 +87,7 @@ landing page. Disini CTA yang saya berikan adalah kontak saya. Ini
 bertujuan supaya user dapat langsung berinteraksi dan juga CTA dapat
 menyampaikan pesan yang kita berikan.
 
-![](md_img/media/image11.png){width="5.770833333333333in"
-height="1.200711942257218in"}
+![](md_img/media/image11.png)
 
 H.  **Footer**
 
@@ -101,5 +95,4 @@ Footer pada website ini saya berikan seluruh kontak dan laman portofolio
 lainnya yang dapat dilihat di luar website ini. Ini bertujuan supaya
 user lebih percaya terhadap kredibilitas kerja projectnya.
 
-![](md_img/media/image12.png){width="5.78125in"
-height="0.5713353018372703in"}
+![](md_img/media/image12.png)
