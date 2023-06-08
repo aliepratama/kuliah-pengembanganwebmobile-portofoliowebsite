@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Alie Pratama</title>
+        <link rel="icon" type="image/x-icon" href="/cdn/Favicon.png">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <!-- <link rel="stylesheet" href="css/fontAwesome/css/all.css"> -->
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/satoshi.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="breakNav"></div>
+        <div id="bgBlur">
+            <div id="containerBgBlur">
+                <ul id="listBgBlur">
+                    <li>
+                        <a class="klikHome"><span highlightNav="true">Home</span></a>
+                    </li>
+                    <li>
+                        <a class="scrollProjects"><span>Projects</span></a>
+                    </li>
+                </ul>
+                <br>
+                <div id="line"></div>
+                <br>
+                <a class="navCta scrollFooter">Contact Me</a>
+            </div>
+        </div>
+        <header id="navDesktop">
+            <a href="" style="cursor: pointer;"><img src="cdn/logo.png" class="logo" alt="logo" width="1"></a>
+            <nav>
+                <ul class="navLinks">
+                    <li>
+                        <a class="klikHome">Home</a>
+                        <div class="hiasanNav1" id="hiasanNav1"></div>
+                    </li>
+                    <li>
+                        <a class="scrollProjects">Projects</a>
+                        <div class="hiasanNav2" id="hiasanNav2"></div>
+                    </li>
+                </ul>
+            </nav>
+            <a class="navCta scrollFooter">Contact Me</a>
+        </header>
+        <header id="navMobile">
+            <a href="#" style="cursor: pointer;"><img src="cdn/logo.png" class="logo" alt="logo" width="1"></a>
+            <button onclick="navMobile()" class="navCta">☰</button>
+        </header>
+        <section class="section1">
+            <div id="containerFoto">
+                <div id="hiasanTitle1"></div>
+                <img class="fotoku" src="cdn/myPhoto.png"></img>
+                <div id="hiasanTitle2"></div>
+            </div>
+            <div id="teksHeadline" style="color: white;">
+                <div id="space"></div>
+                <p id="subHeading">Hi, my name is</p>
+                <h1>Alie Pratama</h1>
+                <p id="subHeading">I am <span id="animText"></span></p>
+                <div id="paragraph">I help brands in building beautiful websites, mobile apps and helping them <span style="color: #1CB7FA;font-weight:700">carve their stories</span> through engaging digital product experiences.</div>
+                <button id="ctaTitle" onclick="scrollProjects()">See my projects <i id="ctaHover" class="fa-solid fa-arrow-right"></i></button>
+            </div>
+        </section>
+        <section class="section2">
+            <div id="backgroudSection2" class="hide-mobile">
+                <div id="hiasan1"></div>
+                <div id="hiasan2"></div>
+                <span id="bgText1">Alie</span>
+                <span id="bgText2">Pratama</span>
+            </div>
+            <div id="containerJob">
+                <div id="job">
+                    <i id="icon" class="fa-solid fa-signature"></i>
+                    <h2>Brand Design</h2>
+                    <p>Brand design makes unique and trusted atmosphere for client</p>
+                </div>
+                <div id="job">
+                    <i id="icon" class="fa-solid fa-pen-nib"></i>
+                    <h2>UI/UX Design</h2>
+                    <p>Make the website/app more attractive and meaningful</p>
+                </div>
+                <div id="job">
+                    <i id="icon" class="fa-solid fa-globe"></i>
+                    <h2>Web Development</h2>
+                    <p>Build technology portal and communication for client to company</p>
+                </div>
+            </div>
+        </section>
+        <section class="section3">
+            <div id="backgroundSection3">
+                <img id="bgGradient" src="cdn/bg1.png">
+            </div>
+            <div id="section3Row">
+                <div id="section3Column1Section3">
+                    <div id="containerJobSection3">
+                        <h2>2</h2>
+                        <p>Years Experience</p>
+                    </div>
+                </div>
+                <div id="section3Column2Section3">
+                    <div id="containerJobSection3">
+                        <h2>43</h2>
+                        <p>Projects Completed</p>
+                    </div>
+                    <div id="containerJobSection3">
+                        <h2>#11787</h2>
+                        <p>1,077,119 of Designers</p>
+                    </div>
+                </div>
+                <div id="section3Column3Section3">
+                    <div id="containerJobSection3">
+                        <p>Designer at</p>
+                        <a id="link" href="https://www.designcrowd.com/designer/1084956/zimo-design/3" target="_blank"><b>DesignCrowd.com</b></a>
+                    </div>
+                    <div id="containerJobSection3">
+                        <p>Designer at</p>
+                        <a id="link" href="https://www.sribu.com/en/members/designwithzimo" target="_blank"><b>Sribu.com</b></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section4" id="section4">
+            <img src="cdn/bg2.png">
+            <div id="section4Row1">
+                <div id="section4Row1Column1">
+                    <span>My Projects</span>
+                </div>
+                <div id="section4Row1Column2">
+                    <a href="https://www.designcrowd.com/designer/1084956/zimo-design/3" target="_blank">See All</a>
+                </div>
+            </div>
+            <div id="section4Row2">
+                <div id="section4Row2Column1">
+                    <img src="cdn/project1.jpg">
+                    <h2>Popstar Popsicles Logo</h2>
+                    <p><i></i>United States</p>
+                </div>
+                <div id="section4Row2Column2">
+                    <img src="cdn/project2.jpg">
+                    <h2>FahrFit Company Logo</h2>
+                    <p><i></i>Germany</p>
+                </div>
+                <div id="section4Row2Column3">
+                    <img src="cdn/project3.jpg">
+                    <h2>Miskif Logo</h2>
+                    <p><i></i>Canada</p>
+                </div>
+            </div>
+        </section>
+        <section class="section5" id="section5">
+            <div id="containerFooterCta">
+                <div id="containerFooterCtaColumn1">
+                    <h2>Let's Make Magic Visual with Me!</h2>
+                    <p>Because make brand through visual can increase your credibility</p>
+                </div>
+                <div id="containerFooterCtaColumn2">
+                    <a href="mailto:designwithzimo@gmail.com" target="_blank">Contact Me</a>
+                </div>
+            </div>
+        </section>
+        <section class="footer" id="footer">
+            <div id="content">
+                <a href="" id="logobawah"><img src="cdn/logo.png" class="logo" alt="logo" width="1"></a>
+                <a href="mailto:designwithzimo@gmail.com" target="_blank"><i class="fa-regular fa-envelope"></i></a>
+                <a href="https://www.instagram.com/designwithzimo/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.behance.net/zimodesign1" target="_blank"><i class="fa-brands fa-behance"></i></a>
+                <a href="https://dribbble.com/designwithzimo" target="_blank"><i class="fa-brands fa-dribbble"></i></a>
+            </div>
+        </section>
+        <footer>
+            <script src="js/theme.js"></script>
+        </footer>
+    </body>
+</html>
