@@ -1,7 +1,3 @@
-Nama: Muhammad Ali Pratama Putra
-
-NIM: 5220411416
-
 **TUGAS INTIVIDU**
 
 *Membuat Web Portofolio*
@@ -29,10 +25,9 @@ terstruktur. Saya menggunakan tools figma untuk membuat blueprint ini
 karena software ini gratis. Berikut adalah hasil saya membuat blueprint
 website portofolio:
 
-![](vertopal_c92bbb92ef51452094b8dd182b6bf203/media/image1.png){width="5.71875in"
-height="1.7173611111111111in"}![](vertopal_c92bbb92ef51452094b8dd182b6bf203/media/image2.png){width="5.71875in"
-height="1.7173611111111111in"}![](vertopal_c92bbb92ef51452094b8dd182b6bf203/media/image2.png){width="5.71875in"
-height="1.7173611111111111in"}
+![](vertopal_c92bbb92ef51452094b8dd182b6bf203/media/image1.png)
+![](vertopal_c92bbb92ef51452094b8dd182b6bf203/media/image2.png)
+![](vertopal_c92bbb92ef51452094b8dd182b6bf203/media/image2.png)
 
 *Hasil Blueprint dari aplikasi "Figma"*
 
